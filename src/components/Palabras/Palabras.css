@@ -1,0 +1,25 @@
+h2 {
+    text-align: center;
+    user-select: none;
+}
+
+ul {
+    columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  padding: 0 10%;
+  margin-top: 3em;
+}
+
+ul .word {
+  display: inline-block;
+  list-style: none;
+  text-align: center;
+  width: 100%;
+  margin: 0.6em 0;
+  user-select: none;
+}
+
+.word-found {
+  text-decoration:line-through;
+}

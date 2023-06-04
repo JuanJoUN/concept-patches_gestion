@@ -1,0 +1,1053 @@
+[   
+    {
+      "label": "Technical Debt",
+      "description": "Quantification of the implied cost of additional maintenance work in future caused by making trade-offs now to deliver software faster.",
+      "positions": [
+        {
+          "letter": "T",
+          "position": 1
+        },
+        {
+          "letter": "e",
+          "position": 2
+        },
+        {
+          "letter": "c",
+          "position": 3
+        },
+        {
+          "letter": "h",
+          "position": 18
+        },
+        {
+          "letter": "n",
+          "position": 33
+        },
+        {
+          "letter": "i",
+          "position": 48
+        },
+        {
+          "letter": "c",
+          "position": 47
+        },
+        {
+          "letter": "a",
+          "position": 32
+        },
+        {
+          "letter": "l",
+          "position": 17
+        },
+        {
+          "letter": "d",
+          "position": 16
+        },
+        {
+          "letter": "e",
+          "position": 31
+        },
+        {
+          "letter": "b",
+          "position": 46
+        },
+        {
+          "letter": "t",
+          "position": 61
+        }
+      ]
+    },
+    {
+      "label": "Feature",
+      "description": "A property, like operation or attribute, which is encapsulated within a classifier, such as an interface, a class, or a datatype.",
+      "positions": [
+        {
+          "letter": "F",
+          "position": 62
+        },
+        {
+          "letter": "e",
+          "position": 63
+        },
+        {
+          "letter": "a",
+          "position": 78
+        },
+        {
+          "letter": "t",
+          "position": 77
+        },
+        {
+          "letter": "u",
+          "position": 76
+        },
+        {
+          "letter": "r",
+          "position": 91
+        },
+        {
+          "letter": "e",
+          "position": 92
+        }
+      ]
+    },
+    {
+      "label": "Design",
+      "description": "The part of the software development process whose primary purpose is to decide how the system will be implemented.",
+      "positions": [
+        {
+          "letter": "D",
+          "position": 93
+        },
+        {
+          "letter": "e",
+          "position": 108
+        },
+        {
+          "letter": "s",
+          "position": 123
+        },
+        {
+          "letter": "i",
+          "position": 138
+        },
+        {
+          "letter": "g",
+          "position": 137
+        },
+        {
+          "letter": "n",
+          "position": 122
+        }
+      ]
+    },
+    {
+      "label": "Development",
+      "description": "A set of partially ordered steps performed for a given purpose, such as constructing models or implementing models.",
+      "positions": [
+        {
+          "letter": "D",
+          "position": 107
+        },
+        {
+          "letter": "e",
+          "position": 106
+        },
+        {
+          "letter": "v",
+          "position": 121
+        },
+        {
+          "letter": "e",
+          "position": 136
+        },
+        {
+          "letter": "l",
+          "position": 151
+        },
+        {
+          "letter": "o",
+          "position": 166
+        },
+        {
+          "letter": "p",
+          "position": 181
+        },
+        {
+          "letter": "m",
+          "position": 182
+        },
+        {
+          "letter": "e",
+          "position": 167
+        },
+        {
+          "letter": "n",
+          "position": 152
+        },
+        {
+          "letter": "t",
+          "position": 153
+        }
+      ]
+    },
+    {
+      "label": "Refactoring",
+      "description": "Process of editing code to reduce or eliminate technical debt, generally undertaken to reduce code smells.",
+      "positions": [
+        {
+          "letter": "R",
+          "position": 196
+        },
+        {
+          "letter": "e",
+          "position": 197
+        },
+        {
+          "letter": "f",
+          "position": 198
+        },
+        {
+          "letter": "a",
+          "position": 199
+        },
+        {
+          "letter": "c",
+          "position": 200
+        },
+        {
+          "letter": "t",
+          "position": 185
+        },
+        {
+          "letter": "o",
+          "position": 184
+        },
+        {
+          "letter": "r",
+          "position": 183
+        },
+        {
+          "letter": "i",
+          "position": 168
+        },
+        {
+          "letter": "n",
+          "position": 169
+        },
+        {
+          "letter": "g",
+          "position": 170
+        }
+      ]
+    },
+    {
+      "label": "Analysis",
+      "description": "Formulate a model of the problem domain defining what to do next.",
+      "positions": [
+        {
+          "letter": "A",
+          "position": 218
+        },
+        {
+          "letter": "n",
+          "position": 217
+        },
+        {
+          "letter": "a",
+          "position": 216
+        },
+        {
+          "letter": "l",
+          "position": 215
+        },
+        {
+          "letter": "y",
+          "position": 214
+        },
+        {
+          "letter": "s",
+          "position": 213
+        },
+        {
+          "letter": "i",
+          "position": 212
+        },
+        {
+          "letter": "s",
+          "position": 211
+        }
+      ]
+    },
+    {
+      "label": "Architecture",
+      "description": "The organizational structure and associated behavior of a system.",
+      "positions": [
+        {
+          "letter": "A",
+          "position": 154
+        },
+        {
+          "letter": "r",
+          "position": 139
+        },
+        {
+          "letter": "c",
+          "position": 124
+        },
+        {
+          "letter": "h",
+          "position": 109
+        },
+        {
+          "letter": "i",
+          "position": 94
+        },
+        {
+          "letter": "t",
+          "position": 79
+        },
+        {
+          "letter": "e",
+          "position": 80
+        },
+        {
+          "letter": "c",
+          "position": 95
+        },
+        {
+          "letter": "t",
+          "position": 110
+        },
+        {
+          "letter": "u",
+          "position": 125
+        },
+        {
+          "letter": "r",
+          "position": 140
+        },
+        {
+          "letter": "e",
+          "position": 155
+        }
+      ]
+    },
+    {
+      "label": "Repository",
+      "description": "A facility for storing object models, interfaces, and implementations.",
+      "positions": [
+        {
+          "letter": "R",
+          "position": 64
+        },
+        {
+          "letter": "e",
+          "position": 49
+        },
+        {
+          "letter": "p",
+          "position": 34
+        },
+        {
+          "letter": "o",
+          "position": 19
+        },
+        {
+          "letter": "s",
+          "position": 4
+        },
+        {
+          "letter": "i",
+          "position": 5
+        },
+        {
+          "letter": "t",
+          "position": 6
+        },
+        {
+          "letter": "o",
+          "position": 7
+        },
+        {
+          "letter": "r",
+          "position": 8
+        },
+        {
+          "letter": "y",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "label": "Constraint",
+      "description": "A semantic condition or restriction.",
+      "positions": [
+        {
+          "letter": "C",
+          "position": 20
+        },
+        {
+          "letter": "o",
+          "position": 21
+        },
+        {
+          "letter": "n",
+          "position": 22
+        },
+        {
+          "letter": "s",
+          "position": 23
+        },
+        {
+          "letter": "t",
+          "position": 24
+        },
+        {
+          "letter": "r",
+          "position": 39
+        },
+        {
+          "letter": "a",
+          "position": 38
+        },
+        {
+          "letter": "i",
+          "position": 37
+        },
+        {
+          "letter": "n",
+          "position": 36
+        },
+        {
+          "letter": "t",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "label": "Component",
+      "description": "A modular, deployable, and replaceable part of a system that encapsulates implementation and exposes a set of interfaces.",
+      "positions": [
+        {
+          "letter": "C",
+          "position": 50
+        },
+        {
+          "letter": "o",
+          "position": 51
+        },
+        {
+          "letter": "m",
+          "position": 52
+        },
+        {
+          "letter": "p",
+          "position": 53
+        },
+        {
+          "letter": "o",
+          "position": 54
+        },
+        {
+          "letter": "n",
+          "position": 69
+        },
+        {
+          "letter": "e",
+          "position": 84
+        },
+        {
+          "letter": "n",
+          "position": 99
+        },
+        {
+          "letter": "t",
+          "position": 114
+        }
+      ]
+    },
+    {
+      "label": "Comment",
+      "description": "An annotation attached to an element or a collection of elements.",
+      "positions": [
+        {
+          "letter": "C",
+          "position": 65
+        },
+        {
+          "letter": "o",
+          "position": 66
+        },
+        {
+          "letter": "m",
+          "position": 67
+        },
+        {
+          "letter": "m",
+          "position": 68
+        },
+        {
+          "letter": "e",
+          "position": 83
+        },
+        {
+          "letter": "n",
+          "position": 98
+        },
+        {
+          "letter": "t",
+          "position": 113
+        }
+      ]
+    },
+    {
+      "label": "Cardinality",
+      "description": "The number of elements in a set.",
+      "positions": [
+        {
+          "letter": "C",
+          "position": 81
+        },
+        {
+          "letter": "a",
+          "position": 82
+        },
+        {
+          "letter": "r",
+          "position": 97
+        },
+        {
+          "letter": "d",
+          "position": 96
+        },
+        {
+          "letter": "i",
+          "position": 111
+        },
+        {
+          "letter": "n",
+          "position": 112
+        },
+        {
+          "letter": "a",
+          "position": 127
+        },
+        {
+          "letter": "l",
+          "position": 126
+        },
+        {
+          "letter": "i",
+          "position": 141
+        },
+        {
+          "letter": "t",
+          "position": 142
+        },
+        {
+          "letter": "y",
+          "position": 157
+        }
+      ]
+    },
+    {
+      "label": "Attribute",
+      "description": "A feature within a classifier that describes a range of values that instances of the classifier may hold.",
+      "positions": [
+        {
+          "letter": "A",
+          "position": 156
+        },
+        {
+          "letter": "t",
+          "position": 171
+        },
+        {
+          "letter": "t",
+          "position": 186
+        },
+        {
+          "letter": "r",
+          "position": 201
+        },
+        {
+          "letter": "i",
+          "position": 202
+        },
+        {
+          "letter": "b",
+          "position": 187
+        },
+        {
+          "letter": "u",
+          "position": 172
+        },
+        {
+          "letter": "t",
+          "position": 173
+        },
+        {
+          "letter": "e",
+          "position": 188
+        }
+      ]
+    },
+    {
+      "label": "Implementation",
+      "description": "A definition of how something is constructed or computed.",
+      "positions": [
+        {
+          "letter": "I",
+          "position": 219
+        },
+        {
+          "letter": "m",
+          "position": 220
+        },
+        {
+          "letter": "p",
+          "position": 221
+        },
+        {
+          "letter": "l",
+          "position": 222
+        },
+        {
+          "letter": "e",
+          "position": 223
+        },
+        {
+          "letter": "m",
+          "position": 224
+        },
+        {
+          "letter": "e",
+          "position": 225
+        },
+        {
+          "letter": "n",
+          "position": 210
+        },
+        {
+          "letter": "t",
+          "position": 209
+        },
+        {
+          "letter": "a",
+          "position": 208
+        },
+        {
+          "letter": "t",
+          "position": 207
+        },
+        {
+          "letter": "i",
+          "position": 206
+        },
+        {
+          "letter": "o",
+          "position": 205
+        },
+        {
+          "letter": "n",
+          "position": 190  
+        }
+      ]
+    },
+    {
+      "label": "Interaction",
+      "description": "A specification of how stimuli are sent between instances to perform a specific task.",
+      "positions": [
+        {
+          "letter": "I",
+          "position": 203
+        },
+        {
+          "letter": "n",
+          "position": 204
+        },
+        {
+          "letter": "t",
+          "position": 189
+        },
+        {
+          "letter": "e",
+          "position": 174
+        },
+        {
+          "letter": "r",
+          "position": 159
+        },
+        {
+          "letter": "a",
+          "position": 158
+        },
+        {
+          "letter": "c",
+          "position": 143
+        },
+        {
+          "letter": "t",
+          "position": 128
+        },
+        {
+          "letter": "i",
+          "position": 129
+        },
+        {
+          "letter": "o",
+          "position": 144
+        },
+        {
+          "letter": "n",
+          "position": 145
+        }
+      ]
+    },
+    {
+      "label": "Method",
+      "description": "The implementation of an operation. It specifies the algorithm or procedure associated with an operation.",
+      "positions": [
+        {
+          "letter": "M",
+          "position": 191
+        },
+        {
+          "letter": "e",
+          "position": 192
+        },
+        {
+          "letter": "t",
+          "position": 193
+        },
+        {
+          "letter": "h",
+          "position": 194
+        },
+        {
+          "letter": "o",
+          "position": 195
+        },
+        {
+          "letter": "d",
+          "position": 180
+        }
+      ]
+    },
+    {
+      "label": "Model",
+      "description": "An abstraction of a physical system with a certain purpose.",
+      "positions": [
+        {
+          "letter": "M",
+          "position": 179
+        },
+        {
+          "letter": "o",
+          "position": 178
+        },
+        {
+          "letter": "d",
+          "position": 177
+        },
+        {
+          "letter": "e",
+          "position": 176
+        },
+        {
+          "letter": "l",
+          "position": 175
+        }
+      ]
+    },
+    {
+      "label": "Package",
+      "description": "A general purpose mechanism for organizing elements into groups.",
+      "positions": [
+        {
+          "letter": "P",
+          "position": 160
+        },
+        {
+          "letter": "a",
+          "position": 161
+        },
+        {
+          "letter": "c",
+          "position": 162
+        },
+        {
+          "letter": "k",
+          "position": 163
+        },
+        {
+          "letter": "a",
+          "position": 164
+        },
+        {
+          "letter": "g",
+          "position": 165
+        },
+        {
+          "letter": "e",
+          "position": 150
+        }
+      ]
+    },
+    {
+      "label": "Parameter",
+      "description": "The specification of a variable that can be changed, passed, or returned.",
+      "positions": [
+        {
+          "letter": "P",
+          "position": 135
+        },
+        {
+          "letter": "a",
+          "position": 120
+        },
+        {
+          "letter": "r",
+          "position": 105
+        },
+        {
+          "letter": "a",
+          "position": 90
+        },
+        {
+          "letter": "m",
+          "position": 89
+        },
+        {
+          "letter": "e",
+          "position": 104
+        },
+        {
+          "letter": "t",
+          "position": 119
+        },
+        {
+          "letter": "e",
+          "position": 134
+        },
+        {
+          "letter": "r",
+          "position": 149
+        }
+      ]
+    },
+    {
+      "label": "Requirement",
+      "description": "A desired feature, property, or behavior of a system.",
+      "positions": [
+        {
+          "letter": "R",
+          "position": 148
+        },
+        {
+          "letter": "e",
+          "position": 147
+        },
+        {
+          "letter": "q",
+          "position": 146
+        },
+        {
+          "letter": "u",
+          "position": 131
+        },
+        {
+          "letter": "i",
+          "position": 132
+        },
+        {
+          "letter": "r",
+          "position": 133
+        },
+        {
+          "letter": "e",
+          "position": 118
+        },
+        {
+          "letter": "m",
+          "position": 117
+        },
+        {
+          "letter": "e",
+          "position": 116
+        },
+        {
+          "letter": "n",
+          "position": 115
+        },
+        {
+          "letter": "t",
+          "position": 130
+        }
+      ]
+    },
+    {
+      "label": "Utility",
+      "description": "A stereotype that groups global variables and procedures in the form of a class declaration.",
+      "positions": [
+        {
+          "letter": "U",
+          "position": 100
+        },
+        {
+          "letter": "t",
+          "position": 85
+        },
+        {
+          "letter": "i",
+          "position": 70
+        },
+        {
+          "letter": "l",
+          "position": 55
+        },
+        {
+          "letter": "i",
+          "position": 56
+        },
+        {
+          "letter": "t",
+          "position": 71
+        },
+        {
+          "letter": "y",
+          "position": 86
+        }
+      ]
+    },
+    {
+      "label": "Reference",
+      "description": "A denotation of a model element.",
+      "positions": [
+        {
+          "letter": "R",
+          "position": 101
+        },
+        {
+          "letter": "e",
+          "position": 102
+        },
+        {
+          "letter": "f",
+          "position": 103
+        },
+        {
+          "letter": "e",
+          "position": 88
+        },
+        {
+          "letter": "r",
+          "position": 87
+        },
+        {
+          "letter": "e",
+          "position": 72
+        },
+        {
+          "letter": "n",
+          "position": 73
+        },
+        {
+          "letter": "c",
+          "position": 74
+        },
+        {
+          "letter": "e",
+          "position": 75
+        }
+      ]
+    },
+    {
+      "label": "Projection",
+      "description": "A mapping from a set to a subset of it.",
+      "positions": [
+        {
+          "letter": "P",
+          "position": 60
+        },
+        {
+          "letter": "r",
+          "position": 59
+        },
+        {
+          "letter": "o",
+          "position": 58
+        },
+        {
+          "letter": "j",
+          "position": 57
+        },
+        {
+          "letter": "e",
+          "position": 42
+        },
+        {
+          "letter": "c",
+          "position": 43
+        },
+        {
+          "letter": "t",
+          "position": 44
+        },
+        {
+          "letter": "i",
+          "position": 45
+        },
+        {
+          "letter": "o",
+          "position": 30
+        },
+        {
+          "letter": "n",
+          "position": 29
+        }
+      ]
+    },
+    {
+      "label": "Procedure",
+      "description": "Coordinated set of actions that models a computation, such as an algorithm.",
+      "positions": [
+        {
+          "letter": "P",
+          "position": 28
+        },
+        {
+          "letter": "r",
+          "position": 27
+        },
+        {
+          "letter": "o",
+          "position": 26
+        },
+        {
+          "letter": "c",
+          "position": 41
+        },
+        {
+          "letter": "e",
+          "position": 40
+        },
+        {
+          "letter": "d",
+          "position": 25
+        },
+        {
+          "letter": "u",
+          "position": 10
+        },
+        {
+          "letter": "r",
+          "position": 11
+        },
+        {
+          "letter": "e",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "label": "Git",
+      "description": "Free and open-source, secure, distributed version control system designed to achieve speed and efficiency even in large projects.",
+      "positions": [
+        {
+          "letter": "G",
+          "position": 13
+        },
+        {
+          "letter": "i",
+          "position": 14
+        },
+        {
+          "letter": "t",
+          "position": 15
+        }
+      ]
+    }
+  ]
+  
