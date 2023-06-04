@@ -1,7 +1,7 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import "./Board.css";
-import Concepts from "../dataCalidad.json";
+import Concepts from "../data.json";
 
 export const Board = () => {
   // eslint-disable-next-line

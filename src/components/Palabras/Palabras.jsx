@@ -1,7 +1,7 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import "./Palabras.css";
-import Concepts from "../dataCalidad.json";
+import Concepts from "../data.json";
 
 export const Palabras = () => {
   const [labels, setLabels] = useState([]);
